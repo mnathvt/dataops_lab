@@ -1,4 +1,4 @@
-# Welcome to the _`{your-project-name-here}`_ repo
+# Welcome to the _`{dataops_labs}`_ repo
 
 Template project for new DataOps repositories.
 
